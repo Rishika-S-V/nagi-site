@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../final_try"
+		},
+		{
+			"path": "../asd"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "application"
+	}
+}
